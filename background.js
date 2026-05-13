@@ -1,6 +1,6 @@
 // background.js — CookieLens FINAL VERSION
 
-const GROQ_KEY = 'Your Grok API Key'; // paste your Groq key here
+const GROQ_KEY = 'Your Grok or Gemini API KEY'; // paste your Groq key here
 
 // ─── FETCH PRIVACY POLICY TEXT ────────────────────────────────────────────
 
